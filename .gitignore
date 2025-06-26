@@ -1,0 +1,25 @@
+# Maven target directory
+/target/
+
+# Eclipse/IntelliJ IDEA project files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# H2 database files
+*.mv.db
+*.h2.db
+
+# Other
+*.swp 
